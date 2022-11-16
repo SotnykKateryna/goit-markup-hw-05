@@ -373,6 +373,7 @@ p {
 .overlay-text {
   color: var(--white-color);
   text-align: center;
+  font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
   text-transform: uppercase;
